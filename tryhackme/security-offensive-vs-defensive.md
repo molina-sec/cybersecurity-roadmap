@@ -1,14 +1,21 @@
-🔐 Seguridad ofensiva y defensiva: dos enfoques que se complementan
+# Seguridad ofensiva vs seguridad defensiva
 
-En ciberseguridad, la seguridad ofensiva y la defensiva cumplen roles distintos pero inseparables.
+En ciberseguridad, la seguridad ofensiva y la seguridad defensiva son dos enfoques distintos pero complementarios.
 
-La seguridad ofensiva (hacking ético) se enfoca en simular ataques para identificar vulnerabilidades y debilidades en los sistemas.
-La seguridad defensiva se centra en proteger, monitorear y responder ante posibles ataques para mitigar riesgos.
+## Seguridad ofensiva
+La seguridad ofensiva (hacking ético) se enfoca en simular ataques reales con el objetivo de identificar vulnerabilidades y debilidades en los sistemas antes de que puedan ser explotadas por atacantes maliciosos.
 
-La diferencia principal es el enfoque:
-el lado ofensivo busca activamente fallas, mientras que el defensivo trabaja para prevenirlas y reducir su impacto.
+## Seguridad defensiva
+La seguridad defensiva se centra en proteger los sistemas, detectar actividades sospechosas y responder a incidentes mediante medidas como monitoreo, control de accesos y mitigación de riesgos.
 
-Ambos son fundamentales. Una seguridad sólida requiere entender cómo se atacan los sistemas para poder defenderlos correctamente.
+## Diferencias clave
+- El enfoque ofensivo busca activamente debilidades.
+- El enfoque defensivo trabaja para prevenir, detectar y minimizar el impacto de los ataques.
 
-📌 Aprendizaje basado en módulos introductorios de TryHackMe.
-#Ciberseguridad #Cybersecurity #TryHackMe #Aprendizaje #IT
+## Importancia de ambos enfoques
+Una estrategia de seguridad sólida requiere comprender cómo se atacan los sistemas para poder defenderlos correctamente.  
+Por este motivo, la seguridad ofensiva y defensiva no pueden existir de forma aislada: se complementan para mejorar la protección general.
+
+---
+
+📌 Notas basadas en módulos introductorios de TryHackMe.
